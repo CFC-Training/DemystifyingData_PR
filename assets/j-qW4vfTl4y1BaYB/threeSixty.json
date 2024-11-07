@@ -1,0 +1,67 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "6ig3pJ9TIjK",
+  "title": "Ferramentas de gestão ambiental e social ",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Cena sem título"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5qMzm6QTTfA",
+      "title": "PRINCIPAL ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6mztLfaxyLz",
+      "title": "PRINCIPAL ",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "65ra0NNLZex",
+      "title": "Plano",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "63Mrt5NP1bb",
+      "title": "Piloto",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5pvgEOL0ZZS",
+      "title": "Recolher",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "635yfu2IlnH",
+      "title": "Processar",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6U0zlAfVBYm",
+      "title": "Gestão de dados",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "66qdlVQvczt",
+      "title": "Visualizar e analisar",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6iAZ99zk38v",
+      "title": "Utilização",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1480,
+    "height": 1018
+  },
+  "stage": {
+    "width": 1220,
+    "height": 900
+  }
+}
